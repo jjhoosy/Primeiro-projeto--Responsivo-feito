@@ -71,14 +71,14 @@ button {
 }
 
 button:hover {
-    opacity: .0;
+    opacity: 0.8;
 
 
 
 }
 
 button:active {
-    opacity: .2;
+    opacity: 0.5;
 }
 
 a {
